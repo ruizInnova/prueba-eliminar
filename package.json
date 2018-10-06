@@ -1,0 +1,13 @@
+{
+    "name": "demo",
+    "version": "1.0.0",
+    "description": "Aplicacion javascript para el titulo",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Javier Salvador Ruiz Samano",
+    "license": "ISC",
+    "dependencies": {
+        "yargs": "^12.0.2"
+    }
+}
